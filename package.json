@@ -1,6 +1,6 @@
 {
   "name": "jajajajajazz66",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/julyueluo/jajajajajazz66.git"
   },
-  "keywords": ["little_prince"],
+  "keywords": [
+    "little_prince"
+  ],
   "author": "julyueluo",
   "license": "ISC"
 }
